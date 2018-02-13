@@ -49,4 +49,17 @@ p{
 .supporting h2 {
   font-size: 32px;
 }
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+text-align: left;
+color: white;
+}
+p {
+  display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
 /*TODO Add icons  */
